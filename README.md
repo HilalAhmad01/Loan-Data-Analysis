@@ -1,4 +1,4 @@
-# Loan-Data-Analysis
+# Loan Data Analysis - SQL Server | Power BI | DAX
 This project dives into loan data analysis, exploring borrower behavior, default patterns, and overall lending performance. I used Power BI to build interactive dashboards and created multiple custom columns & DAX measures to uncover insights that raw data alone couldn’t show.
 
 ### Dashboard Link : https://app.powerbi.com/view?r=eyJrIjoiZjljZTYwYzMtNzIyOC00MzU4LTgyOGQtMjFiZTg3MGY4NmJhIiwidCI6ImVkZWFmNTZlLWY1YTktNDQzZi1hYjliLTMzNWFjNjNmNDg4MSIsImMiOjN9
