@@ -14,29 +14,29 @@ This project dives into loan data analysis, exploring borrower behavior, default
 ## 📊 Overview
 
 - Data Source: Loan dataset (borrower info, loan details, repayment history).
-- Data Cleaning & Transformation:
+Data Cleaning & Transformation:
 
-Removed duplicates and missing values.
+- Removed duplicates and missing values.
 
-Standardized column formats (dates, categories, IDs).
+- Standardized column formats (dates, categories, IDs).
 
-Created calculated columns for better segmentation.
+- Created calculated columns for better segmentation.
 
-- DAX Measures (Custom Calculations):
+DAX Measures (Custom Calculations):
 
-Default loan ratio
+- Default loan ratio
 
-Year-on-Year loan growth
+- Year-on-Year loan growth
 
-Active vs. closed loans
+- Active vs. closed loans
 
-- Visuals & Insights:
+Visuals & Insights:
 
-Loan distribution by year, amount, and type
+- Loan distribution by year, amount, and type
 
-Default trends and risk segmentation
+- Default trends and risk segmentation
 
-Repayment patterns by customer demographics
+- Repayment patterns by customer demographics
 
 
 ## 🛠 Tools & Technologies
